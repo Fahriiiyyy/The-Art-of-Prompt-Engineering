@@ -7,6 +7,7 @@ Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of B
 Mentee Info
 
 Name : Fahri Wal Fahruddin
+
 Program : IBM Advance AI
 
 Tech Stack :
