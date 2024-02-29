@@ -8,6 +8,7 @@ Mentee Info
 
 Name : Fahri Wal Fahruddin
 Program : IBM Advance AI
+
 Tech Stack :
  - Python
  - HTML
